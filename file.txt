@@ -1,2 +1,5 @@
+
 hi this is my first file in git
 this is rithika
+hi this is my first file in git 
+this is kaviya and someone
